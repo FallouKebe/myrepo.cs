@@ -4,7 +4,7 @@ class Programme
 {
     static void Main()
     {
-        // Demande à l'utilisateur de saisir un nombre
+        // Demande a l'utilisateur de saisir un nombre
         Console.Write("Entrez un nombre pour calculer sa factorielle: ");
         int n = Convert.ToInt32(Console.ReadLine());
 
