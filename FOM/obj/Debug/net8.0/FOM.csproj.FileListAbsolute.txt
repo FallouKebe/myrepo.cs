@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\FOM\FOM\bin\Debug\net8.0\FOM.exe
+C:\Users\hp\source\repos\FOM\FOM\bin\Debug\net8.0\FOM.deps.json
+C:\Users\hp\source\repos\FOM\FOM\bin\Debug\net8.0\FOM.runtimeconfig.json
+C:\Users\hp\source\repos\FOM\FOM\bin\Debug\net8.0\FOM.dll
+C:\Users\hp\source\repos\FOM\FOM\bin\Debug\net8.0\FOM.pdb
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\FOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\FOM.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\FOM.AssemblyInfo.cs
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\FOM.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\FOM.dll
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\refint\FOM.dll
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\FOM.pdb
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\FOM.genruntimeconfig.cache
+C:\Users\hp\source\repos\FOM\FOM\obj\Debug\net8.0\ref\FOM.dll
