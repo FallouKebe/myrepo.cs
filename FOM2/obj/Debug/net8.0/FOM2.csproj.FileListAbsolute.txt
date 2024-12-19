@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\FOM2\FOM2\bin\Debug\net8.0\FOM2.exe
+C:\Users\hp\source\repos\FOM2\FOM2\bin\Debug\net8.0\FOM2.deps.json
+C:\Users\hp\source\repos\FOM2\FOM2\bin\Debug\net8.0\FOM2.runtimeconfig.json
+C:\Users\hp\source\repos\FOM2\FOM2\bin\Debug\net8.0\FOM2.dll
+C:\Users\hp\source\repos\FOM2\FOM2\bin\Debug\net8.0\FOM2.pdb
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\FOM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\FOM2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\FOM2.AssemblyInfo.cs
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\FOM2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\FOM2.dll
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\refint\FOM2.dll
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\FOM2.pdb
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\FOM2.genruntimeconfig.cache
+C:\Users\hp\source\repos\FOM2\FOM2\obj\Debug\net8.0\ref\FOM2.dll
